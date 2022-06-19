@@ -10,3 +10,18 @@
 
 
 git - status ------> red untracked
+
+git add . =====> working to staging
+
+git commit -m "loging feature" =====> staging to local repo
+
+git config --global user.email "ppriyanka160998@gmail.com"
+  git config --global user.name "pawarpiya"
+
+//git hub (login to git hub)
+//create new repo
+
+git branch -M main
+git remote add origin https://github.com/pawarpiya/Gitpr.git
+git push -u origin main
+
