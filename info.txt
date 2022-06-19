@@ -1,0 +1,12 @@
+//git status
+
+//1st step
+
+//git init
+
+//working ====> staging ====> local repo
+
+                                                             //remote repo
+
+
+git - status ------> red untracked
